@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
        
         <p>
-          The Corner of Idillas #Nojodaaaaj pura tierra aqui tambien nojodaaaa
+          prueba mi cambio
         </p>
         <a
           className="App-link"
